@@ -1,5 +1,5 @@
 {
-  "image": "ghcr.io/benc-uk/devcontainers/python:latest",
+  "image": "docker.io/Mon82sj/devcontainers/python:latest",
   "remoteUser": "vscode",
   "forwardPorts": [5000],
   "extensions": [
